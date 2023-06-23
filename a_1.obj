@@ -1,0 +1,19 @@
+4 4 5 5
+8781831
+8388608
+12976135
+12582912
+5
+6
+7
+4
+One D 3
+Start U 0
+Globe D 0
+Glob1 D 1
+Glob2 D 2
+0 lw One
+1 lw Start
+2 sw One
+3 sw Start
+3 .fill Globe
